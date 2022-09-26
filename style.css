@@ -123,3 +123,45 @@ body, h1, h3, ul, p {
     margin-top: 20px;
     color: #fff;
 }
+
+.main-content {
+    width: 65%;
+    float: left;
+}
+
+.sidebar {
+    width: 30%;
+    float: right;
+}
+
+#about-us {
+    margin: 40px o;
+    font-family: sans-serif;
+}
+
+.bg-dark {
+    background-color: #35424a;
+    color: #fff;
+    padding: 15px;
+}
+
+.service-box {
+    padding: 30px;
+    margin: 15px 0;
+    background-color: #e5e5e5;
+    border: 1px solid #555;
+}
+
+label {
+    display: block;
+    margin: 10px;
+}
+
+.form-input, textarea {
+    width: 100%;
+    padding: 10px 0;
+}
+
+.active {
+    color: coral !important;
+}
